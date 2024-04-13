@@ -2,4 +2,4 @@
 
 Generates a waving hand emoji that waves at you
 
-[emoji](https://iam-weijie.github.io/wave/)
+<iframe src="https://iam-weijie.github.io/wave/" width="100%" height="300"></iframe>
