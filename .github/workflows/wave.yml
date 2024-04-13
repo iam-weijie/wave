@@ -11,20 +11,5 @@ jobs:
   wave:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Update README
-        run: |
-          LEFT_WAVE='👋'
-          RIGHT_WAVE='👋🏻'
-          WAVE_EMOJI=$LEFT_WAVE
-          
-          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
-          if [[ "$LAST_COMMIT_MESSAGE" == *"Wave with $LEFT_WAVE"* ]]; then
-            WAVE_EMOJI=$RIGHT_WAVE
-          fi
-          
-          echo "$WAVE_EMOJI" > README.md
-          git add README.md
-          git commit -m "Wave with $WAVE_EMOJI"
-          git push
+      - name: Display waving hand emoji
+        run: echo "👋"
