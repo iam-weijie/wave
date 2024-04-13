@@ -12,13 +12,8 @@ makes for great [github profile readme](https://docs.github.com/en/account-and-p
 
 Copy the following code and paste in your `README` file. You can add sentences in front or after.
 
-```html
-<img
-  src="https://iam-weijie.github.io/wave/hand-emoji.svg"
-  alt="Animated Emoji"
-  width="50"
-  height="50"
-/>
+```md
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 ```
 
-[example](https://github.com/iam-weijie/iam-weijie/blob/main/README.md?plain=1#1)
+[example](https://github.com/iam-weijie/iam-weijie/blob/main/README.md?plain=1#L1)
