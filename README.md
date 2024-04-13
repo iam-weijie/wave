@@ -1,10 +1,9 @@
 # wave
 
-![codestyle](http://img.shields.io/badge/code_style-prettier-pink.png)
-
-[![action](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fiam-weijie%2Fwave%2Factions%2Fworkflows%2Fpages%2Fpages-build-deployment.yml&label=Pages%20Deployment&query=$.workflow_runs[0].conclusion&color=green)](https://github.com/iam-weijie/wave/actions/workflows/pages/pages-build-deployment)
-
-[![action](https://img.shields.io/github/workflow/status/iam-weijie/wave/pages-build-deployment?label=action)](https://github.com/iam-weijie/wave/actions/workflows/pages/pages-build-deployment)
+[![action](https://img.shields.io/badge/action-passing-green)](https://github.com/iam-weijie/wave/actions/workflows/pages/pages-build-deployment)
+[![release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/iam-weijie/wave/releases/tag/v1.0.0)
+[![marketplace](https://img.shields.io/badge/marketplace-wave-blue)](https://github.com/marketplace/actions/waving-hand-emoji)
+![codestyle](https://img.shields.io/badge/code_style-prettier-pink)
 
 Generates a waving hand emoji that waves at you
 
