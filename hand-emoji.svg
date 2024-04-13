@@ -3,5 +3,5 @@
   <text x="50" y="70" font-size="30" text-anchor="middle">&#x1F44B;</text> <!-- Unicode for waving hand emoji -->
 
   <!-- Animation: Rotate the emoji -->
-  <animateTransform attributeName="transform" type="rotate" values="0 30 30; 20 30 30; -10 30 30; 20 30 30; 0 30 30" dur="2s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="rotate" values="0 30 30; 20 30 30; 10 30 30; 20 30 30; 0 30 30" dur="2s" repeatCount="indefinite"/>
 </svg>
