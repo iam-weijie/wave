@@ -1,0 +1,5 @@
+name: waving-hand-emoji
+description: This is a waving hand emoji that waves at you
+author: Weijie Wang
+runs:
+  image: "svg"
