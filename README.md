@@ -1,9 +1,9 @@
 # wave
 
 [![action](https://img.shields.io/badge/action-passing-green)](https://github.com/iam-weijie/wave/actions/workflows/pages/pages-build-deployment)
-[![release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/iam-weijie/wave/releases/tag/v1.0.0)
+[![release](https://img.shields.io/badge/release-v1.0.0-turquoise)](https://github.com/iam-weijie/wave/releases/tag/v1.0.0)
 [![marketplace](https://img.shields.io/badge/marketplace-wave-blue)](https://github.com/marketplace/actions/waving-hand-emoji)
-![codestyle](https://img.shields.io/badge/code_style-prettier-pink)
+![codestyle](https://img.shields.io/badge/code_style-prettier-violet)
 
 Generates a waving hand emoji that waves at you
 
