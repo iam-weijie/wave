@@ -15,7 +15,7 @@ makes for great [github profile readme](https://docs.github.com/en/account-and-p
 
 ## Usage
 
-Copy the following code and paste in your `README` file. You can add sentences in front or after.
+Copy the following code and paste in your `README` file. You can add wordings in front or after.
 
 ```md
 <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
