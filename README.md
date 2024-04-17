@@ -7,7 +7,9 @@
 
 Generates a waving hand emoji that waves at you
 
-![Animated Emoji](https://iam-weijie.github.io/wave/hand-emoji.svg)
+<div>
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg">
+</div>
 
 Generates a [svg](https://iam-weijie.github.io/wave/hand-emoji.svg) image,
 
